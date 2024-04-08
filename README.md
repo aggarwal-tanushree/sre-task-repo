@@ -2,13 +2,13 @@
 ## Week-1
 
 ### Github Codespace running
-![codespace](image.png)
+![codespace](assets/image.png)
 
 ### Upcommerce Website
-![upcommerce](image-1.png)
+![upcommerce](assets/image-1.png)
 
 ### Alert Manager
-![alertmgr](image-3.png)
+![alertmgr](assets/image-3.png)
 
 ### Prometheus
-![Prometheus dashboard](image-2.png)
+![Prometheus dashboard](assets/image-2.png)
