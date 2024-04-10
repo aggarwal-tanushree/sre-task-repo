@@ -12,3 +12,11 @@
 
 ### Prometheus
 ![Prometheus dashboard](assets/image-2.png)
+
+## Week-1 Optional Tasks
+
+### Configure Email alerts
+![Email alert](assets/image-email-notification.png)
+
+### Configure Slack alerts
+![Email alert](assets/image-slack-notification.png)
